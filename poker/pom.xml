@@ -120,6 +120,11 @@
 			<groupId>com.vaadin</groupId>
 			<artifactId>flow-push</artifactId>
 		</dependency>
+		<dependency>
+			<groupId>org.eclipse.jetty</groupId>
+			<artifactId>jetty-runner</artifactId>
+			<version>9.4.4.v20170414</version>
+		</dependency>
 	</dependencies>
 
 	<build>
